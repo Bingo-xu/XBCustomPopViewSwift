@@ -15,8 +15,6 @@ s.source       = { :git => "https://github.com/xb901203/XBCustomPopViewSwift.git
 s.source_files  = "XBCustomPopView/**/*"
 s.frameworks    = "Foundation", "UIKit"
 s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.0' }
-
-
 s.requires_arc = true
 
 
